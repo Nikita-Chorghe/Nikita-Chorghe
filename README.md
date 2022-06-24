@@ -2,9 +2,9 @@
 
 
 
+![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif.gif)
 
-
-<h1 align="center">Hi 👋, I'm Nikita Chorghe</h1>
+<h1 align="center"> I'm Nikita </h1>
 <h3 align="center">Master's students at University of Texas at Dallas.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita-Chorghe&show_icons=true&theme=midnight-purple)

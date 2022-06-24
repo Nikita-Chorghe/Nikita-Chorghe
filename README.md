@@ -1,4 +1,6 @@
-# Hi there 👋 ![](https://tenor.com/view/hello-gif-13232769.gif)
+<!-- # Hi there 👋  -->
+
+![](https://tenor.com/view/hello-world-gif-18564330.gif)
 
 I'm Nikita Chorghe 
 

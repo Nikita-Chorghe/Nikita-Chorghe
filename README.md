@@ -1,6 +1,6 @@
 <!-- # Hi there 👋  -->
 
-<img src = "https://github.com/Nikita-Chorghe/Nikita-Chorghe/blob/master/jump-hello-transparent.gif" width="400" height="400" justify-content = center></img> 
+<img src = "https://github.com/Nikita-Chorghe/Nikita-Chorghe/blob/master/jump-hello-transparent.gif" width="300" height="200" justify-content = "center"></img> 
 
 
 <h1 align="center"> I'm Nikita </h1>

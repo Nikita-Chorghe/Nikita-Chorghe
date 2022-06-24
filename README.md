@@ -1,9 +1,6 @@
 <!-- # Hi there 👋  -->
 
-
-
-![](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif.gif)
-
+<h1 align="center"> 👋 </h1>
 <h1 align="center"> I'm Nikita </h1>
 <h3 align="center">Master's students at University of Texas at Dallas.</h3>
 

@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 ![](https://tenor.com/view/hello-gif-13232769.gif)
 
 I'm Nikita Chorghe 
 

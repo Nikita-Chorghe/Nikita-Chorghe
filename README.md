@@ -1,7 +1,7 @@
 <!-- # Hi there 👋  -->
 
-<img src = "https://github.com/Nikita-Chorghe/Nikita-Chorghe/blob/master/jump-hello-transparent.gif" width="140" height="140"></img> 
-<img src = "https://github.com/Nikita-Chorghe/Nikita-Chorghe/blob/master/img%20readme.gif" width="140" height="140"></img>
+<img src = "https://github.com/Nikita-Chorghe/Nikita-Chorghe/blob/master/jump-hello-transparent.gif" width="400" height="400" justify-content = center></img> 
+
 
 <h1 align="center"> I'm Nikita </h1>
 <h3 align="center">Master's students at University of Texas at Dallas.</h3>

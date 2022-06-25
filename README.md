@@ -3,7 +3,7 @@
   I'm Nikita.
 </h1>
 
-<h3 align="center">Master's students at University of Texas at Dallas.</h3>
+<!-- <h3 align="center">Master's students at University of Texas at Dallas.</h3> -->
 
 ![](https://github-readme-stats.vercel.app/api?username=Nikita-Chorghe&show_icons=true&theme=midnight-purple)
 

@@ -1,9 +1,10 @@
-<!-- # Hi there 👋  -->
-
-<img src = "https://github.com/Nikita-Chorghe/Nikita-Chorghe/blob/master/jump-hello-transparent.gif" width="300" height="300" justify-content = "center"></img> 
 
 
-<h1 align="center"> I'm Nikita </h1>
+<img src = "https://github.com/Nikita-Chorghe/Nikita-Chorghe/blob/master/jump-hello-transparent.gif" width="300" height="300" align="center"></img> 
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" align="center"/>
+
+<h1 align="right"> I'm Nikita </h1>
 <h3 align="center">Master's students at University of Texas at Dallas.</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita-Chorghe&show_icons=true&theme=midnight-purple)
